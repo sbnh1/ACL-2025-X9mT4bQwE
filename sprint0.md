@@ -26,6 +26,7 @@ Les équipes pourront changer afin que chaque membre puisse s'occuper des diffé
 | Item                  |  | Estimation | | Equipe |
 |------------------------|--|-------------|----|--|
 | Conception*             | | s0         | | Équipe 1 & 2 |
+
 \* La conception du projet implique l'emsemble des membres du groupe lors du premier sprint (s0) (Conception : architecture, frameWork, maquettes,...).
 
 ### Utilisateurs
